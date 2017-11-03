@@ -78,5 +78,5 @@ theme: maupassant-custom
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kemalersin/kemalersin.blog.git
+  repo: https://GH_TOKEN@github.com/kemalersin/kemalersin.blog.git
   branch: gh-pages

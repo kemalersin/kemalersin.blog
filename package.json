@@ -1,9 +1,15 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "kemalersin.blog",
+  "version": "0.1.0",
   "private": true,
   "hexo": {
     "version": "3.4.0"
+  },
+  "scripts": {
+    "start": "hexo server --drafts",
+    "generate": "hexo generate",
+    "deploy": "hexo deploy",
+    "build": "hexo clean && hexo generate && hexo deploy --silent"
   },
   "dependencies": {
     "hexo": "^3.2.0",
