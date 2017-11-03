@@ -1,6 +1,6 @@
 title: Test
 author: Kemal Ersin Yılmaz
-date: 2017-11-04 00:33:49
+date: 2017-11-04 00:45:53
 tags:
 ---
-Travis CI testi.
+Travis CI testi. 2. Deneme.
