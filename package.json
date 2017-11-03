@@ -8,8 +8,7 @@
   "scripts": {
     "start": "hexo server --drafts",
     "generate": "hexo generate",
-    "deploy": "hexo deploy --silent",
-    "build": "hexo clean && hexo generate && hexo deploy --silent"
+    "deploy": "hexo deploy --silent"
   },
   "dependencies": {
     "hexo": "^3.2.0",
