@@ -11,9 +11,9 @@ before_script:
 - git config --global user.email 'mail@kemalersin.com'
 - sed -i "s/GH_TOKEN/${GH_TOKEN}/" _config.yml
 install:
-- npm run generate
+- sudo npm run generate
 script:
-- npm run deploy
+- sudo npm run deploy
 env:
   global:
     secure: jsy8mYoVO5nyl+3YdzI9KJ2rwOHP5HbmxBV3UtucugFSnuUYnSOfM7wE9xQf1L0ecMedm3sIyTq2D2tCfjI2NivKMGQunZobeRuPW4cF2DWD6X4xqsROPKin6XZ03BFXgTxTMDViTfK4XYWp2wdu89GnMH4tZ+Y5wm1L0/DfacMHFRK+VRUVElNcF3TeEMvKQoah54UyiXmE2ai4uRZfwdzkd/Hd7kuCn7fQHJmAhv1/Pav3UKwDqKx2usqQHnBANqwtDsQ21hXTTZx/4Rl1Uvb8qky5lZrtWn55/+ZZmFlfx5Kjr+XZhCsEs6uVEXzzczkLzrwgWhhB8i7KbDAM++nSsTdtXQxqVyD8kQ+wYIAMVKyvSlxRiQ7crC7gy7zw8De2zEsXcGBbHdzY+CsZ1c5Spb4rPzYSeeyrOQeswGdV+HbpOgiWmEznsxefVvLRMNDhZzGuI5rfDyav7ts9/FTANHPKl4Jjp1S1mwHFmrOzhME+WWOnbd0DXGvh4mXNaBGWGJGslXfyEOo85GFksP1y0bMB5Vg8EqN9yq3jRJrxc/xrDaQO9OXeAICorYroMkP3pFdfe/GkEKPLlYrsiiCNgb99dxt/reKOBxsUqv+YbQ48AH5YXQwUi4v50e4Bi3pHT5UB1IcNFgLvd2sLqKFcOpzUR9MFETQtlvaRgDM=
