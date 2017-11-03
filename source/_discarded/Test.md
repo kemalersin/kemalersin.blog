@@ -1,7 +1,6 @@
 title: Test
 author: Kemal Ersin Yılmaz
-tags: []
-categories: []
-date: 2017-11-03 23:21:00
+date: 2017-11-04 00:33:49
+tags:
 ---
-Travis testi.
+Travis CI testi.
