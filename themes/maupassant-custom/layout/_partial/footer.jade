@@ -1,0 +1,48 @@
+#footer= 'Copyright © ' + date(Date.now(), 'YYYY') + ' '
+  a(href=url_for('.'), rel='nofollow')= config.title + '.'
+  |  Powered by
+  a(rel='nofollow', target='_blank', href='https://hexo.io')  Hexo.
+  a(rel='nofollow', target='_blank', href='https://github.com/tufu9441/maupassant-hexo')  Theme
+  |  by
+  a(rel='nofollow', target='_blank', href='https://github.com/pagecho')  Cho.
+
+  .container
+    .row
+      .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+        ul.list-inline.text-center
+          if theme.social.twitter_url       
+            li
+              a(href='#{theme.social.twitter_url}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-twitter.fa-stack-1x.fa-inverse
+          if theme.social.facebook_url                        
+            li
+              a(href='#{theme.social.facebook_url}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-facebook.fa-stack-1x.fa-inverse
+          if theme.social.github_url                 
+            li
+              a(href='#{theme.social.github_url}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-github.fa-stack-1x.fa-inverse
+          if theme.social.linkedin_url               
+            li
+              a(href='#{theme.social.linkedin_url}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-linkedin.fa-stack-1x.fa-inverse
+          if theme.social.mailto                
+            li
+              a(href='mailto:#{theme.social.mailto}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-envelope-o.fa-stack-1x.fa-inverse
+          if theme.social.gitlab_url      
+            li
+              a(href='#{theme.social.gitlab_url}', target='_blank')
+                span.fa-stack.fa-lg
+                  i.fa.fa-circle.fa-stack-2x
+                  i.fa.fa-gitlab.fa-stack-1x.fa-inverse  
