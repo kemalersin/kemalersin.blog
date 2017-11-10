@@ -24,6 +24,6 @@ https://www.goodreads.com/user_challenges/7724022
 
 Blogu sık sık güncellemeyi planlıyorum. Olabildiğince kısa tutmaya çalışacağım yazılar çoğunlukla kişisel konularla ilgili olacak, günlük yaşamımdan, düşüncelerimden ve fikirlerimden belli belirsiz izler taşıyacak. Buraya kadar okuduysanız, şunu da bilmenizde yarar görüyorum: Derdimi kısa cümlelerle anlatmayı pek beceremem ama bu, blogda okuyacağınız en uzun yazı bile olabilir.
 
-Sosyal ağlar üzerinden iletişime ve etkileşime açığım. Sosyal medya hesaplarıma sayfanın alt kısmındaki bağlantıları kullanarak ulaşabilirsiniz. Ayrıca blogdaki bütün yazılar yorumlarınıza açık olacak; yazılarımla ilgili mantık süzgecinden geçmiş tartışmaların içinde olmaktan keyif ve mutluluk duyarım.
+Sosyal ağlar üzerinden iletişime ve etkileşime açığım. Sosyal medya hesaplarıma sayfanın alt kısmındaki bağlantıları kullanarak ulaşabilirsiniz. Ayrıca blogdaki bütün yazılar yorumlarınızı bekliyor olacak; yazılarımla ilgili mantık süzgecinden geçmiş tartışmaların içinde olmaktan keyif ve mutluluk duyarım.
 
 Sonraki yazılarda görüşmek üzere...
