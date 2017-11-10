@@ -1,7 +1,10 @@
 title: Olan Biten
 author: Kemal Ersin Yılmaz
-date: 2017-11-10 21:37:47
 tags:
+  - kişisel
+categories:
+  - Yaşam
+date: 2017-11-10 21:37:00
 ---
 Kızım kreşte ikinci yılına girdi, oğlumsa ilkokula başladı... Her akşam oğlum Kaan ile birlikte ders çalışıyoruz. Küçük bir insanın günden güne yeni harfler, sözcükler öğrendiğini görmek, kendi başına okuyup yazmaya başladığına ilk elden an be an tanıklık etmek sıradışı bir deneyim. Belki de çocuk bizimki olduğu için böyle hissediyorumdur.
 
