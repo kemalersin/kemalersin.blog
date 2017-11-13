@@ -1,7 +1,10 @@
 title: Günde 1 Yazı
 author: Kemal Ersin Yılmaz
-date: 2017-11-13 15:24:41
 tags:
+  - kişisel
+categories:
+  - Yaşam
+date: 2017-11-13 15:24:00
 ---
 Bu blogu açtığımda kendime sık sık yazma hedefi koymuştum. Ancak şimdiye kadar yaşamdan aldığım en önemli ders, belirsiz cümlelerle koyulan hedeflerin gerçekleşme olasılığının çok düşük olduğudur. "Sık sık yazmak" hedef değil, sadece bir dilek.
 
